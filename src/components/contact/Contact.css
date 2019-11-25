@@ -1,0 +1,14 @@
+.Contact{
+    height:100%;
+    width:100%;
+    background-color:green;
+    color:white;
+}
+
+.hideContact{
+    display:none;
+}
+
+.showContact{
+    display:block;
+}
